@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"001_スポーン","order":1,"parentId":0,"scrollX":1193.142857142857,"scrollY":758.5714285714286},
+{"id":2,"expanded":true,"name":"003_フィールド","order":3,"parentId":0,"scrollX":1179.4285714285713,"scrollY":1092.857142857143},
+{"id":3,"expanded":true,"name":"002_最初の街","order":2,"parentId":0,"scrollX":1193.142857142857,"scrollY":758.5714285714286},
+{"id":4,"expanded":false,"name":"008_最後の洞窟","order":8,"parentId":0,"scrollX":759.2727272727273,"scrollY":482.72727272727275},
+{"id":5,"expanded":false,"name":"007_最後のほこら","order":7,"parentId":0,"scrollX":1193.142857142857,"scrollY":758.5714285714286},
+{"id":6,"expanded":false,"name":"005_ドラゴンの洞窟","order":5,"parentId":0,"scrollX":1179.4285714285713,"scrollY":1161.4285714285713},
+{"id":7,"expanded":false,"name":"006_ラミアの洞窟","order":6,"parentId":0,"scrollX":1179.4285714285713,"scrollY":955.7142857142857},
+{"id":8,"expanded":false,"name":"004_最初のダンジョン","order":4,"parentId":0,"scrollX":1193.142857142857,"scrollY":758.5714285714286}
+]
